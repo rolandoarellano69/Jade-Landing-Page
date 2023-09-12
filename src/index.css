@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-isoPeek {
+  background-image: url('./assets/img/isotipo transparencia-01.png');
+}
+html {
+  scroll-behavior: smooth;
+}
