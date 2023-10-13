@@ -8,7 +8,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false)
 
   return (
-    <header className=' shadow-2xl sticky top-0 z-50  bg-primary py-2 px-8 text-white'>
+    <header className=' shadow-2xl sticky top-0 z-50  bg-primary py-4 px-8 text-white'>
       <div className='flex justify-between items-center ml-2 md:ml-4'>
         {/* Tu ícono */}
         <JadeIconNav />
