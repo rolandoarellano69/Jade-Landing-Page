@@ -17,7 +17,7 @@ const Footer = () => {
       <nav>
         <ul className='flex flex-col sm:flex-row items-center justify-center gap-4 mt-4'>
         <li className='list-none flex items-center gap-2 text-lg sm:text-xl'> <RiMapPinLine className='text-lg sm:text-xl' />Plaza Carrusel LA002</li>
-        <li className='list-none flex items-center gap-2 text-lg sm:text-xl'> <RiPhoneLine className='text-lg sm:text-xl' />6644049399</li>
+        <li className='list-none flex items-center gap-2 text-lg sm:text-xl'> <RiPhoneLine className='text-lg sm:text-xl' />663 1007961</li>
         <li className='text-lg sm:text-xl mt-2 sm:mt-0'>Lunes a Viernes : 9:00 am-6:00 pm</li>
         <li className='text-lg sm:text-xl mt-2 sm:mt-0'>Sábado 9:00 am-2 pm</li>
         </ul>
